@@ -1,0 +1,192 @@
+.panel.panel-default-alt {
+  background: #f7f7f7; }
+  .panel.panel-default-alt .panel-heading {
+    background: #e3e3e3;
+    padding: 10px 20px; }
+
+.form-group .translations {
+  display: none; }
+
+.form-group .translations-toogle {
+  cursor: pointer; }
+
+.panel-lang-add, .panel-lang-edit {
+  display: none; }
+
+.btn-lang-add {
+  cursor: pointer; }
+
+.dd-container {
+  width: 100% !important; }
+  .dd-container .dd-options, .dd-container .dd-select {
+    width: 100% !important; }
+  .dd-container .dd-option-image, .dd-container .dd-selected-image {
+    max-width: 25px !important; }
+  .dd-container .dd-option-text, .dd-container .dd-selected-text {
+    line-height: 1 !important; }
+  .dd-container ul.dd-options {
+    max-height: 216px; }
+
+#lang-sort tbody tr {
+  cursor: move;
+  background: #fff; }
+
+/**
+ *	Media manager styles
+ *
+*/
+body .filemanager .thmb-prev {
+  width: 100%;
+  height: 150px;
+  background-size: contain;
+  background-position: center;
+  background-color: #fff;
+  background-repeat: no-repeat; }
+
+.table > tbody > tr > td.td-ckbox {
+  padding: 8px 0 8px 15px; }
+
+.td-ckbox .ckbox input[type="checkbox"]:checked + label::after {
+  top: 3px; }
+
+.headermenu .dropdown-toggle.signed-user {
+  padding: 7px 10px; }
+
+.signed-user .signed-icon {
+  display: inline-block;
+  text-align: center;
+  background-color: #FFFFFF;
+  width: 36px;
+  color: #7D8791;
+  line-height: 32px;
+  border-radius: 100%;
+  font-size: 16px;
+  border: 2px solid #7D8791;
+  margin-right: 10px;
+  margin-left: 5px; }
+
+.leftpanel-collapsed .leftpanel-profile {
+  display: none; }
+
+.leftpanel-profile {
+  text-align: center; }
+  .leftpanel-profile .image {
+    border-radius: 100%; }
+  .leftpanel-profile h4 {
+    margin: 15px 0 0 0; }
+
+.pageheader > h2 .fa {
+  display: inline-block;
+  width: 40px;
+  text-align: center; }
+
+.pageheader > h2 > a {
+  color: #1d2939; }
+  .pageheader > h2 > a:hover {
+    color: #1d2939; }
+
+.headermenu .dropdown-menu {
+  margin-right: 0px !important; }
+
+.toggle-wrap {
+  width: 100px;
+  float: left;
+  padding: 0 15px; }
+  .toggle-wrap .toggle {
+    width: 70px;
+    float: right;
+    text-align: center; }
+
+.toggle-label {
+  padding: 2px 15px 0 15px; }
+
+.profile-header {
+  position: relative; }
+  .profile-header .btn-edit {
+    margin-bottom: 15px; }
+
+@media screen and (min-width: 768px) {
+  .profile-header .btn-edit {
+    position: absolute;
+    right: 0;
+    top: 0; } }
+
+#model-profile-img {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-size: cover;
+  background-position: top center;
+  border-radius: 100%; }
+
+.image-select {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.96);
+  padding: 30px 15px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  z-index: 1000; }
+
+.image-select-inner {
+  background: #fff;
+  max-width: 960px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.3); }
+
+.image-select .image {
+  height: 150px;
+  margin-bottom: 15px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: 1px dotted #bbb;
+  background-color: #f1f1f1;
+  cursor: pointer; }
+
+.image-select .image.selected {
+  background-color: #1caf9a; }
+
+.option-toggle-cb {
+  display: none; }
+
+.to-image {
+  padding: 15px;
+  border: 1px dotted #bbb;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  position: relative; }
+  .to-image .btn-group {
+    display: none;
+    position: absolute;
+    top: -1px;
+    right: -1px; }
+  .to-image .to-image-value {
+    display: none; }
+  .to-image .to-image-select {
+    display: inline-block;
+    padding: 50px 30px;
+    background-color: #eee;
+    border-radius: 5px;
+    color: #999;
+    text-decoration: none; }
+  .to-image.has-value .btn-group {
+    display: inline-block; }
+  .to-image.has-value .to-image-value {
+    display: inline-block; }
+  .to-image.has-value .to-image-select {
+    display: none; }
+
+.ca-link .item {
+  display: inline-block; }
+  .ca-link .item > a {
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: #888;
+    text-decoration: none; }
+  .ca-link .item.active > a {
+    background: #428bca;
+    color: #fff; }

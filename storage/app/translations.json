@@ -1,0 +1,1359 @@
+{
+  "_token": "JmcopaLqWJEHIs1QceUNh4MaujIu81FyqQ2o8reY",
+  "general_buttons_add": {
+    "de": "Hinzuf\u00fcgen",
+    "en": "Add",
+    "it": "Aggiungere",
+    "pl": "Dodaj",
+    "ua": "\u0414\u043e\u0434\u0430\u0442\u0438",
+    "ru": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c"
+  },
+  "general_buttons_add_new": {
+    "de": "Neue hinzuf\u00fcgen",
+    "en": "Add new",
+    "it": "Aggiungere nuova",
+    "pl": "Dodaj nowe",
+    "ua": "\u0414\u043e\u0434\u0430\u0442\u0438 \u043d\u043e\u0432\u0438\u0439",
+    "ru": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u043e\u0435"
+  },
+  "general_buttons_create": {
+    "de": "Erstellen",
+    "en": "Create",
+    "it": "Creare",
+    "pl": "Stw\u00f3rz",
+    "ua": "\u0421\u0442\u0432\u043e\u0440\u0438\u0442\u0438",
+    "ru": "\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435"
+  },
+  "general_buttons_update": {
+    "de": "Update",
+    "en": "Update",
+    "it": "Aggiornare",
+    "pl": "Zmodernizowa\u0107",
+    "ua": "\u041e\u043d\u043e\u0432\u0438\u0442\u0438",
+    "ru": "\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c"
+  },
+  "general_buttons_edit": {
+    "de": "Edit",
+    "en": "Edit",
+    "it": "Edit",
+    "pl": "Edit",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438",
+    "ru": "Edit"
+  },
+  "general_buttons_save": {
+    "de": "Speichern",
+    "en": "Save",
+    "it": "Salvare",
+    "pl": "Zapisa\u0107",
+    "ua": "\u0417\u0431\u0435\u0440\u0435\u0433\u0442\u0438",
+    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c"
+  },
+  "general_buttons_delete": {
+    "de": "L\u00f6schen",
+    "en": "Delete",
+    "it": "cancellare",
+    "pl": "kasowa\u0107",
+    "ua": "\u0412\u0438\u0434\u0430\u043b\u0438\u0442\u0438",
+    "ru": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c"
+  },
+  "general_buttons_save_changes": {
+    "de": "\u00c4nderungen Speichern",
+    "en": "Save changes",
+    "it": "Salva i cambiamenti",
+    "pl": "Zapisz zmiany",
+    "ua": "\u0417\u0431\u0435\u0440\u0435\u0433\u0442\u0438 \u0437\u043c\u0456\u043d\u0438",
+    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f"
+  },
+  "general_buttons_all": {
+    "de": "Alle",
+    "en": "All",
+    "it": "Tutti",
+    "pl": "Wszyscy",
+    "ua": "\u0412\u0441\u0456",
+    "ru": "\u0412\u0441\u0435"
+  },
+  "general_buttons_select_all": {
+    "de": "Alle ausw\u00e4hlen",
+    "en": "Select all",
+    "it": "Seleziona tutto",
+    "pl": "Zaznacz wszystko",
+    "ua": "\u0412\u0438\u0431\u0440\u0430\u0442\u0438 \u0432\u0441\u0456",
+    "ru": "\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0432\u0441\u0435"
+  },
+  "general_buttons_deselect_all": {
+    "de": "Auswahl aufheben",
+    "en": "Deselect all",
+    "it": "Deselezionare tutto",
+    "pl": "Odznacz wszystkie",
+    "ua": "\u0417\u043d\u044f\u0442\u0438 \u0432\u0438\u0434\u0456\u043b\u0435\u043d\u043d\u044f",
+    "ru": "\u0423\u0431\u0440\u0430\u0442\u044c \u0432\u044b\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u043e \u0432\u0441\u0435\u0433\u043e"
+  },
+  "general_buttons_activate": {
+    "de": "Aktivieren",
+    "en": "Activate",
+    "it": "Attivare",
+    "pl": "Aktywowa\u0107",
+    "ua": "\u0410\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u0442\u0438",
+    "ru": "\u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+  },
+  "general_buttons_done": {
+    "de": "Fertig",
+    "en": "Done",
+    "it": "Fatto",
+    "pl": "Gotowe",
+    "ua": "\u0413\u043e\u0442\u043e\u0432\u043e",
+    "ru": "\u0413\u043e\u0442\u043e\u0432\u043e"
+  },
+  "general_buttons_confirm": {
+    "de": "Best\u00e4tigen",
+    "en": "Confirm",
+    "it": "confermare",
+    "pl": "Potwierdza\u0107",
+    "ua": "\u041f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0438",
+    "ru": "\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c"
+  },
+  "general_buttons_disable": {
+    "de": "Deaktivieren",
+    "en": "Disable",
+    "it": "disattivare",
+    "pl": "Wy\u0142\u0105czy\u0107",
+    "ua": "\u0414\u0435\u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u0442\u0438",
+    "ru": "\u0414\u0435\u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u0442\u0438"
+  },
+  "general_labels_show": {
+    "de": "Ansehen",
+    "en": "Show",
+    "it": "Mostrare",
+    "pl": "Pokaz",
+    "ua": "\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u0438",
+    "ru": "\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c"
+  },
+  "general_labels_not_translated": {
+    "de": "Keine \u00dcbersetzung verf\u00fcgbar",
+    "en": "Not translated",
+    "it": "non tradotto",
+    "pl": "nie tlumaczy",
+    "ua": "\u041d\u0435\u043c\u0430\u0454 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0443",
+    "ru": "\u041d\u0435 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442\u0441\u044f"
+  },
+  "general_labels_edit_translations": {
+    "de": "\u00dcbersetzung bearbeiten",
+    "en": "Edit translations",
+    "it": "Modificare le traduzioni",
+    "pl": "Edytuj t\u0142umacze\u0144",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434",
+    "ru": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u044b"
+  },
+  "general_labels_my": {
+    "de": "Meine",
+    "en": "My",
+    "it": "Il mio",
+    "pl": "M\u00f3j",
+    "ua": "\u041c\u0456\u0439",
+    "ru": "\u043c\u043e\u0439"
+  },
+  "general_labels_translate": {
+    "de": "\u00dcbersetzen",
+    "en": "Translate",
+    "it": "Tradurre",
+    "pl": "T\u0142umaczy\u0107",
+    "ua": "\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434",
+    "ru": "\u041f\u0435\u0440\u0435\u0432\u0435\u0434\u0438\u0442\u0435"
+  },
+  "general_errors_error_occurred": {
+    "de": "Ein Fehler ist aufgetreten!",
+    "en": "An error occurred!",
+    "it": "Si \u00e8 verificato un errore!",
+    "pl": "Wyst\u0105pi\u0142 b\u0142\u0105d!",
+    "ua": "\u0412\u0438\u043d\u0438\u043a\u043b\u0430 \u043f\u043e\u043c\u0438\u043b\u043a\u0430",
+    "ru": "\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430!"
+  },
+  "general_days_monday": {
+    "de": "Montag",
+    "en": "Monday",
+    "it": "luned\u00ec",
+    "pl": "poniedzia\u0142ek",
+    "ua": "\u041f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a",
+    "ru": "\u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a"
+  },
+  "general_days_tuesday": {
+    "de": "Dienstag",
+    "en": "Tuesday",
+    "it": "Marted\u00ec",
+    "pl": "Wtorek",
+    "ua": "\u0412\u0456\u0432\u0442\u043e\u0440\u043e\u043a",
+    "ru": "\u0432\u0442\u043e\u0440\u043d\u0438\u043a"
+  },
+  "general_days_wednesday": {
+    "de": "Mittwoch",
+    "en": "Wednesday",
+    "it": "Mercoled\u00ec",
+    "pl": "\u015broda",
+    "ua": "\u0421\u0435\u0440\u0435\u0434\u0430",
+    "ru": "\u0421\u0435\u0440\u0435\u0434\u0430"
+  },
+  "general_days_thursday": {
+    "de": "Donnerstag",
+    "en": "Thursday",
+    "it": "Gioved\u00ec",
+    "pl": "Czwartek",
+    "ua": "\u0427\u0435\u0442\u0432\u0435\u0440",
+    "ru": "\u0427\u0435\u0442\u0432\u0435\u0440\u0433"
+  },
+  "general_days_friday": {
+    "de": "Freitag",
+    "en": "Friday",
+    "it": "Venerd\u00ec",
+    "pl": "Pi\u0105tek",
+    "ua": "\u041f'\u044f\u0442\u043d\u0438\u0446\u044f",
+    "ru": "\u041f'\u044f\u0442\u043d\u0438\u0446\u044f"
+  },
+  "general_days_saturday": {
+    "de": "Samstag",
+    "en": "Saturday",
+    "it": "Sabato",
+    "pl": "Sobota",
+    "ua": "\u0421\u0443\u0431\u043e\u0442\u0430",
+    "ru": "\u0421\u0443\u0431\u043e\u0442\u0430"
+  },
+  "general_days_sunday": {
+    "de": "Sonntag",
+    "en": "Sunday",
+    "it": "Domenica",
+    "pl": "Niedziela",
+    "ua": "\u041d\u0435\u0434\u0456\u043b\u044f",
+    "ru": "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435"
+  },
+  "admin_navigation_website": {
+    "de": "Website",
+    "en": "Website",
+    "it": "Sito web",
+    "pl": "Strona www",
+    "ua": "\u0412\u0435\u0431\u0441\u0430\u0439\u0442",
+    "ru": "\u0412\u0435\u0431\u0441\u0430\u0439\u0442"
+  },
+  "admin_navigation_dashboard": {
+    "de": "Dashboard",
+    "en": "Dashboard",
+    "it": "Dashboard",
+    "pl": "Tablica rozdzielcza",
+    "ua": "\u041f\u0430\u043d\u0435\u043b\u044c \u043a\u0435\u0440\u0443\u0432\u0430\u043d\u043d\u044f",
+    "ru": "\u041f\u0430\u043d\u0435\u043b\u044c \u043a\u0435\u0440\u0443\u0432\u0430\u043d\u043d\u044f"
+  },
+  "admin_navigation_navigation": {
+    "de": "Navigation",
+    "en": "Navigation",
+    "it": "Navigazione",
+    "pl": "Nawigacja",
+    "ua": "\u041d\u0430\u0432\u0456\u0433\u0430\u0446\u0456\u044f",
+    "ru": "\u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u044f"
+  },
+  "admin_navigation_theme_options": {
+    "de": "Theme options",
+    "en": "Theme options",
+    "it": "Opzioni del tema",
+    "pl": "Opcje tematyczne",
+    "ua": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0435\u043c\u0438",
+    "ru": "\u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435"
+  },
+  "admin_navigation_pages": {
+    "de": "Seiten",
+    "en": "Pages",
+    "it": "Pagine",
+    "pl": "Strony",
+    "ua": "\u0421\u0442\u043e\u0440\u0456\u043d\u043a\u0438",
+    "ru": "\u0421\u0442\u043e\u0440\u0456\u043d\u043a\u0438"
+  },
+  "admin_navigation_settings": {
+    "de": "Einstellungen",
+    "en": "Settings",
+    "it": "Impostazioni",
+    "pl": "Ustawienia",
+    "ua": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f",
+    "ru": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f"
+  },
+  "admin_navigation_general": {
+    "de": "Allgemein",
+    "en": "General ",
+    "it": "Generale",
+    "pl": "Genera\u0142",
+    "ua": "\u041e\u0441\u043d\u043e\u0432\u043d\u0456",
+    "ru": "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f"
+  },
+  "admin_navigation_general_settings": {
+    "de": "Allgemeine Einstellungen",
+    "en": "General settings",
+    "it": "Impostazioni generali",
+    "pl": "Ustawienia Og\u00f3lne",
+    "ua": "\u041e\u0441\u043d\u043e\u0432\u043d\u0456 \u043d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f",
+    "ru": "\u041e\u0431\u0449\u0438\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438"
+  },
+  "admin_navigation_themes": {
+    "de": "Themes",
+    "en": "Themes",
+    "it": "Temi",
+    "pl": "Tematy",
+    "ua": "\u0422\u0435\u043c\u0438",
+    "ru": "\u0422\u0435\u043c\u044b"
+  },
+  "admin_navigation_languages": {
+    "de": "Sprachen",
+    "en": "Languages",
+    "it": "Le lingue",
+    "pl": "J\u0119zyki",
+    "ua": "\u041c\u043e\u0432\u0438",
+    "ru": "\u042f\u0437\u044b\u043a\u0438"
+  },
+  "admin_navigation_translations": {
+    "de": "\u00dcbersetzungen",
+    "en": "Translations",
+    "it": "Traduzioni",
+    "pl": "T\u0142umaczenia",
+    "ua": "\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438",
+    "ru": "\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b"
+  },
+  "admin_navigation_media": {
+    "de": "Media",
+    "en": "Media",
+    "it": "Media",
+    "pl": "Multimedia",
+    "ua": "\u041c\u0435\u0434\u0456\u0430\u0444\u0430\u0439\u043b\u0438",
+    "ru": "\u0421\u041c\u0418"
+  },
+  "admin_navigation_media_files": {
+    "de": "Media files",
+    "en": "Media files",
+    "it": "I file multimediali",
+    "pl": "Pliki Multimedialne",
+    "ua": "\u041c\u0435\u0434\u0456\u0430 \u0444\u0430\u0439\u043b\u0438",
+    "ru": "\u041c\u0435\u0434\u0438\u0430-\u0444\u0430\u0439\u043b\u044b"
+  },
+  "admin_navigation_sliders": {
+    "de": "Sliders",
+    "en": "Sliders",
+    "it": "Sliders",
+    "pl": "Suwak",
+    "ua": "\u0421\u043b\u0430\u0439\u0434\u0435\u0440\u0438",
+    "ru": "\u043f\u043e\u043b\u0437\u0443\u043d\u043e\u043a"
+  },
+  "admin_navigation_galleries": {
+    "de": "Galerie",
+    "en": "Galleries",
+    "it": "Gallerie",
+    "pl": "Galerie",
+    "ua": "\u0413\u0430\u043b\u0435\u0440\u0435\u0457",
+    "ru": "\u0433\u0430\u043b\u0435\u0440\u0435\u0438"
+  },
+  "admin_navigation_users": {
+    "de": "Benutzer",
+    "en": "Users",
+    "it": "Utente",
+    "pl": "U\u017cytkownik",
+    "ua": "\u041a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0456",
+    "ru": "\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c"
+  },
+  "admin_navigation_services": {
+    "de": "Service",
+    "en": "Services",
+    "it": "Servizi",
+    "pl": "Us\u0142ugi",
+    "ua": "\u041f\u043e\u0441\u043b\u0443\u0433\u0438",
+    "ru": "\u0421\u0435\u0440\u0432\u0438\u0441\u044b"
+  },
+  "admin_navigation_schedule": {
+    "de": "Schedule",
+    "en": "Schedule",
+    "it": "Tabella di marcia",
+    "pl": "Harmonogram",
+    "ua": "\u0413\u0440\u0430\u0444\u0456\u043a \u0440\u043e\u0431\u043e\u0442\u0438",
+    "ru": "\u0413\u0440\u0430\u0444\u0438\u043a"
+  },
+  "admin_navigation_gallery": {
+    "de": "Gallerie",
+    "en": "Gallery",
+    "it": "Galleria",
+    "pl": "Galeria",
+    "ua": "\u0413\u0430\u043b\u0435\u0440\u0435\u044f",
+    "ru": "\u0413\u0430\u043b\u0435\u0440\u0435\u044f"
+  },
+  "admin_navigation_model": {
+    "de": "Model",
+    "en": "Model",
+    "it": "Modello",
+    "pl": "Model",
+    "ua": "\u041c\u043e\u0434\u0435\u043b\u044c",
+    "ru": "\u041c\u043e\u0434\u0435\u043b\u044c"
+  },
+  "admin_navigation_models": {
+    "de": "Models",
+    "en": "Models",
+    "it": "Models",
+    "pl": "Models",
+    "ua": "\u041c\u043e\u0434\u0435\u043b\u0456",
+    "ru": "Models"
+  },
+  "admin_navigation_club": {
+    "de": "Club",
+    "en": "Club",
+    "it": "Club",
+    "pl": "Klub",
+    "ua": "\u041a\u043b\u0443\u0431",
+    "ru": "\u041a\u043b\u0443\u0431"
+  },
+  "admin_navigation_contacts": {
+    "de": "Kontakt",
+    "en": "Contacts",
+    "it": "Contatto",
+    "pl": "Kontakt",
+    "ua": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438",
+    "ru": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438"
+  },
+  "admin_navigation_profile": {
+    "de": "Profile",
+    "en": "Profile",
+    "it": "Profilo",
+    "pl": "Profil",
+    "ua": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c"
+  },
+  "admin_navigation_profiles": {
+    "de": "Profiles",
+    "en": "Profiles",
+    "it": "Profili",
+    "pl": "Profile",
+    "ua": "\u041f\u0440\u043e\u0444\u0456\u043b\u0456",
+    "ru": "\u041f\u0440\u043e\u0444\u0456\u043b\u0456"
+  },
+  "admin_navigation_account_settings": {
+    "de": "Account settings",
+    "en": "Account settings",
+    "it": "Impostazioni dell 'account",
+    "pl": "Ustawienia konta",
+    "ua": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0443",
+    "ru": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430"
+  },
+  "admin_navigation_log_out": {
+    "de": "Log out",
+    "en": "Log out",
+    "it": "Disconnettersi",
+    "pl": "Wyloguj",
+    "ua": "\u0412\u0438\u0439\u0442\u0438",
+    "ru": "\u0412\u044b\u0439\u0442\u0438"
+  },
+  "admin_navigation_step": {
+    "de": "Schritt",
+    "en": "Step",
+    "it": "Passo",
+    "pl": "Krok",
+    "ua": "\u041a\u0440\u043e\u043a",
+    "ru": "\u0448\u0430\u0433"
+  },
+  "admin_navigation_create_profile": {
+    "de": "Profil erstellen",
+    "en": "Create profile",
+    "it": "Crea profilo",
+    "pl": "Utw\u00f3rz profil",
+    "ua": "\u0421\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u043f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u043e\u0444\u0438\u043b\u044c"
+  },
+  "admin_navigation_choose_services": {
+    "de": "Service ausw\u00e4hlen",
+    "en": "Choose services",
+    "it": "Scegli i servizi",
+    "pl": "Wybierz us\u0142ugi",
+    "ua": "\u0412\u0438\u0431\u0440\u0430\u0442\u0438 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
+    "ru": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u0441\u043b\u0443\u0433\u0438"
+  },
+  "admin_navigation_choose_schedule": {
+    "de": "Arbeitszeit ausw\u00e4hlen",
+    "en": "Choose schedule",
+    "it": "Scegli Calendario",
+    "pl": "Wybierz harmonogram",
+    "ua": "\u0412\u0438\u0431\u0440\u0430\u0442\u0438 \u0440\u043e\u0437\u043a\u043b\u0430\u0434",
+    "ru": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435"
+  },
+  "admin_navigation_upload_images": {
+    "de": "Bilder hochladen",
+    "en": "Upload images",
+    "it": "Carica immagini",
+    "pl": "Dodaj zdj\u0119cia",
+    "ua": "\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f",
+    "ru": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439"
+  },
+  "admin_breadcrumbs_home": {
+    "de": "Home",
+    "en": "Home",
+    "it": "Home",
+    "pl": "Dom",
+    "ua": "\u0414\u043e\u043c\u0430\u0448\u043d\u044f",
+    "ru": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f"
+  },
+  "admin_breadcrumbs_admin": {
+    "de": "Admin",
+    "en": "Admin",
+    "it": "Admin",
+    "pl": "Admin",
+    "ua": "\u0410\u0434\u043c\u0456\u043d",
+    "ru": "\u0410\u0434\u043c\u0438\u043d"
+  },
+  "admin_breadcrumbs_you_are_here": {
+    "de": "Du bist hier",
+    "en": "You are here",
+    "it": "Tu sei qui",
+    "pl": "Jeste\u015b tu",
+    "ua": "\u0412\u0438 \u0442\u0443\u0442",
+    "ru": "\u0412\u044b \u0437\u0434\u0435\u0441\u044c"
+  },
+  "admin_breadcrumbs_upload": {
+    "de": "Hochladen",
+    "en": "Upload",
+    "it": "Upload",
+    "pl": "Upload",
+    "ua": "\u0412\u0438\u0433\u0440\u0443\u0437\u0438\u0442\u0438",
+    "ru": "Upload"
+  },
+  "admin_breadcrumbs_edit_ptofile": {
+    "de": "Profil bearbeiten",
+    "en": "Edit profile",
+    "it": "Modifica Profilo",
+    "pl": "Edytuj profil",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u043f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0444\u0438\u043b\u044c"
+  },
+  "admin_breadcrumbs_model_profiles": {
+    "de": "Model Profile",
+    "en": "Model profiles",
+    "it": "Profili delle modelle",
+    "pl": "Profile modelu",
+    "ua": "\u041f\u0440\u043e\u0444\u0456\u043b\u0456 \u043c\u043e\u0434\u0435\u043b\u0435\u0439",
+    "ru": "\u041f\u0440\u043e\u0444\u0456\u043b\u0456 \u043c\u043e\u0434\u0435\u043b\u0435\u0439"
+  },
+  "admin_breadcrumbs_my_profile": {
+    "de": "Mein Profil",
+    "en": "My profile",
+    "it": "Il mio profilo",
+    "pl": "M\u00f3j profil",
+    "ua": "\u041c\u0456\u0439 \u043f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "\u041c\u043e\u0439 \u043f\u0440\u043e\u0444\u0430\u0439\u043b"
+  },
+  "admin_breadcrumbs_theme_options": {
+    "de": "Theme Eigenschaften",
+    "en": "Theme options",
+    "it": "Opzioni del tema",
+    "pl": "Opcje tematyczne",
+    "ua": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0435\u043c\u0438",
+    "ru": "\u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435"
+  },
+  "admin_settings_website": {
+    "de": "Website settings",
+    "en": "Website settings",
+    "it": "Website settings",
+    "pl": "Website settings",
+    "ua": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0441\u0430\u0439\u0442\u0443",
+    "ru": "Website settings"
+  },
+  "admin_settings_website_name": {
+    "de": "Website name",
+    "en": "Website name",
+    "it": "Website name",
+    "pl": "Website name",
+    "ua": "\u0406\u043c'\u044f \u0441\u0430\u0439\u0442\u0443",
+    "ru": "Website name"
+  },
+  "admin_settings_website_description": {
+    "de": "Website description",
+    "en": "Website description",
+    "it": "Website description",
+    "pl": "Website description",
+    "ua": "\u041e\u043f\u0438\u0441 \u0441\u0430\u0439\u0442\u0443",
+    "ru": "Website description"
+  },
+  "admin_settings_website_url": {
+    "de": "Website url",
+    "en": "Website url",
+    "it": "Website url",
+    "pl": "Website url",
+    "ua": "Url \u0441\u0430\u0439\u0442\u0443",
+    "ru": "Website url"
+  },
+  "admin_settings_website_system_email": {
+    "de": "System email",
+    "en": "System email",
+    "it": "System email",
+    "pl": "System email",
+    "ua": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u0439 email",
+    "ru": "System email"
+  },
+  "admin_settings_website_default_locale": {
+    "de": "Default locale",
+    "en": "Default locale",
+    "it": "Default locale",
+    "pl": "Default locale",
+    "ua": "\u041b\u043e\u043a\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f",
+    "ru": "Default locale"
+  },
+  "admin_settings_website_type": {
+    "de": "Website type",
+    "en": "Website type",
+    "it": "Website type",
+    "pl": "Website type",
+    "ua": "\u0422\u0438\u043f \u0432\u0435\u0431\u0441\u0430\u0439\u0442\u0443",
+    "ru": "Website type"
+  },
+  "admin_settings_single_model": {
+    "de": "Single model",
+    "en": "Single model",
+    "it": "Single model",
+    "pl": "Single model",
+    "ua": "\u0414\u043b\u044f \u043c\u043e\u0434\u0435\u043b\u0456",
+    "ru": "Single model"
+  },
+  "admin_settings_single_club": {
+    "de": "Single club",
+    "en": "Single club",
+    "it": "Single club",
+    "pl": "Single club",
+    "ua": "\u0414\u043b\u044f \u043a\u043b\u0443\u0431\u0443",
+    "ru": "Single club"
+  },
+  "admin_settings_contacts": {
+    "de": "Contacts",
+    "en": "Contacts",
+    "it": "Contacts",
+    "pl": "Contacts",
+    "ua": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f",
+    "ru": "Contacts"
+  },
+  "admin_settings_business_name": {
+    "de": "Business name",
+    "en": "Business name",
+    "it": "Business name",
+    "pl": "Business name",
+    "ua": "\u041d\u0430\u0437\u0432\u0430 \u0431\u0456\u0437\u043d\u0435\u0441\u0443",
+    "ru": "Business name"
+  },
+  "admin_settings_business_address": {
+    "de": "Address",
+    "en": "Address",
+    "it": "Address",
+    "pl": "Address",
+    "ua": "\u0410\u0434\u0440\u0435\u0441\u0430",
+    "ru": "Address"
+  },
+  "admin_settings_business_phone": {
+    "de": "Phone",
+    "en": "Phone",
+    "it": "Phone",
+    "pl": "Phone",
+    "ua": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d",
+    "ru": "Phone"
+  },
+  "admin_settings_contact_email": {
+    "de": "Contact email",
+    "en": "Contact email",
+    "it": "Contact email",
+    "pl": "Contact email",
+    "ua": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u0438\u0439 email",
+    "ru": "Contact email"
+  },
+  "admin_settings_opening_hours": {
+    "de": "Opening hours",
+    "en": "Opening hours",
+    "it": "Opening hours",
+    "pl": "Opening hours",
+    "ua": "\u0413\u043e\u0434\u0438\u043d\u0438 \u0440\u043e\u0431\u043e\u0442\u0438",
+    "ru": "Opening hours"
+  },
+  "admin_settings_languages_list": {
+    "de": "Languages list",
+    "en": "Languages list",
+    "it": "Languages list",
+    "pl": "Languages list",
+    "ua": "\u0421\u043f\u0438\u0441\u043e\u043a \u043c\u043e\u0432",
+    "ru": "Languages list"
+  },
+  "admin_settings_languages_table_name": {
+    "de": "Name",
+    "en": "Name",
+    "it": "Name",
+    "pl": "Name",
+    "ua": "\u041d\u0430\u0437\u0432\u0430",
+    "ru": "Name"
+  },
+  "admin_settings_languages_table_code": {
+    "de": "Code",
+    "en": "Code",
+    "it": "Code",
+    "pl": "Code",
+    "ua": "ISO \u041a\u043e\u0434 (2 \u0431\u0443\u043a\u0432\u0438)",
+    "ru": "Code"
+  },
+  "admin_settings_languages_table_flag": {
+    "de": "Flag",
+    "en": "Flag",
+    "it": "Flag",
+    "pl": "Flag",
+    "ua": "\u041f\u0440\u0430\u043f\u043e\u0440",
+    "ru": "Flag"
+  },
+  "admin_settings_create_language": {
+    "de": "Create language",
+    "en": "Create language",
+    "it": "Create language",
+    "pl": "Create language",
+    "ua": "\u0414\u043e\u0434\u0430\u0442\u0438 \u043b\u043e\u043a\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044e",
+    "ru": "Create language"
+  },
+  "admin_settings_edit_language": {
+    "de": "Edit language",
+    "en": "Edit language",
+    "it": "Edit language",
+    "pl": "Edit language",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u043b\u043e\u043a\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044e",
+    "ru": "Edit language"
+  },
+  "admin_settings_language_name": {
+    "de": "Language name",
+    "en": "Language name",
+    "it": "Language name",
+    "pl": "Language name",
+    "ua": "\u041d\u0430\u0437\u0432\u0430 \u043c\u043e\u0432\u0438",
+    "ru": "Language name"
+  },
+  "admin_settings_language_code": {
+    "de": "Language code",
+    "en": "Language code",
+    "it": "Language code",
+    "pl": "Language code",
+    "ua": "\u041a\u043e\u0434 \u043c\u043e\u0432\u0438",
+    "ru": "Language code"
+  },
+  "admin_settings_language_flag": {
+    "de": "Language flag",
+    "en": "Language flag",
+    "it": "Language flag",
+    "pl": "Language flag",
+    "ua": "\u041f\u0440\u0430\u043f\u043e\u0440",
+    "ru": "Language flag"
+  },
+  "admin_settings_active_theme": {
+    "de": "Active theme",
+    "en": "Active theme",
+    "it": "Active theme",
+    "pl": "Active theme",
+    "ua": "\u0410\u043a\u0442\u0438\u0432\u043d\u0430 \u0442\u0435\u043c\u0430",
+    "ru": "Active theme"
+  },
+  "admin_settings_name": {
+    "de": "Name",
+    "en": "Name",
+    "it": "Name",
+    "pl": "Name",
+    "ua": "\u041d\u0430\u0437\u0432\u0430",
+    "ru": "Name"
+  },
+  "admin_settings_slug": {
+    "de": "Slug",
+    "en": "Slug",
+    "it": "Slug",
+    "pl": "Slug",
+    "ua": "\u042f\u0440\u043b\u0438\u043a",
+    "ru": "Slug"
+  },
+  "admin_settings_version": {
+    "de": "Version",
+    "en": "Version",
+    "it": "Version",
+    "pl": "Version",
+    "ua": "\u0412\u0435\u0440\u0441\u0456\u044f",
+    "ru": "Version"
+  },
+  "admin_settings_available_themes": {
+    "de": "Available themes",
+    "en": "Available themes",
+    "it": "Available themes",
+    "pl": "Available themes",
+    "ua": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0456 \u0442\u0435\u043c\u0438",
+    "ru": "Available themes"
+  },
+  "admin_settings_navigation_area": {
+    "de": "Navigation area",
+    "en": "Navigation area",
+    "it": "Navigation area",
+    "pl": "Navigation area",
+    "ua": "\u0417\u043e\u043d\u0430 \u043d\u0430\u0432\u0456\u0433\u0430\u0446\u0456\u0457",
+    "ru": "Navigation area"
+  },
+  "admin_settings_title": {
+    "de": "Title",
+    "en": "Title",
+    "it": "Title",
+    "pl": "Title",
+    "ua": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a",
+    "ru": "Title"
+  },
+  "admin_settings_link_to": {
+    "de": "Link to",
+    "en": "Link to",
+    "it": "Link to",
+    "pl": "Link to",
+    "ua": "\u0421\u0441\u0438\u043b\u043a\u0430  \u043d\u0430",
+    "ru": "Link to"
+  },
+  "admin_settings_page": {
+    "de": "Page",
+    "en": "Page",
+    "it": "Page",
+    "pl": "Page",
+    "ua": "\u0421\u0442\u043e\u0440\u0456\u043d\u043a\u0430",
+    "ru": "Page"
+  },
+  "admin_settings_enter_url": {
+    "de": "Enter url",
+    "en": "Enter url",
+    "it": "Enter url",
+    "pl": "Enter url",
+    "ua": "\u0412\u0432\u0435\u0434\u0456\u0442\u044c url",
+    "ru": "Enter url"
+  },
+  "admin_users_name": {
+    "de": "Full name",
+    "en": "Full name",
+    "it": "Full name",
+    "pl": "Full name",
+    "ua": "\u041f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f",
+    "ru": "Full name"
+  },
+  "admin_users_email": {
+    "de": "Email",
+    "en": "Email",
+    "it": "Email",
+    "pl": "Email",
+    "ua": "Email",
+    "ru": "Email"
+  },
+  "admin_users_role": {
+    "de": "Role",
+    "en": "Role",
+    "it": "Role",
+    "pl": "Role",
+    "ua": "\u0420\u043e\u043b\u044c",
+    "ru": "Role"
+  },
+  "admin_users_password": {
+    "de": "Password",
+    "en": "Password",
+    "it": "Password",
+    "pl": "Password",
+    "ua": "\u041f\u0430\u0440\u043e\u043b\u044c",
+    "ru": "Password"
+  },
+  "admin_users_new_password": {
+    "de": "New password",
+    "en": "New password",
+    "it": "New password",
+    "pl": "New password",
+    "ua": "\u041d\u043e\u0432\u0438\u0439 \u043f\u0430\u0440\u043e\u043b\u044c",
+    "ru": "New password"
+  },
+  "admin_users_repeat_password": {
+    "de": "Repeat password",
+    "en": "Repeat password",
+    "it": "Repeat password",
+    "pl": "Repeat password",
+    "ua": "\u041f\u043e\u0432\u0442\u043e\u0440\u0456\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c",
+    "ru": "Repeat password"
+  },
+  "admin_users_change_password": {
+    "de": "Change password",
+    "en": "Change password",
+    "it": "Change password",
+    "pl": "Change password",
+    "ua": "\u0417\u043c\u0456\u043d\u0438\u0442\u0438 \u043f\u0430\u0440\u043e\u043b\u044c",
+    "ru": "Change password"
+  },
+  "admin_users_create_user": {
+    "de": "Create user",
+    "en": "Create user",
+    "it": "Create user",
+    "pl": "Create user",
+    "ua": "\u0421\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430",
+    "ru": "Create user"
+  },
+  "admin_users_edit_user": {
+    "de": "Edit user",
+    "en": "Edit user",
+    "it": "Edit user",
+    "pl": "Edit user",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430",
+    "ru": "Edit user"
+  },
+  "admin_users_administrators": {
+    "de": "Administrators",
+    "en": "Administrators",
+    "it": "Administrators",
+    "pl": "Administrators",
+    "ua": "\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0438",
+    "ru": "Administrators"
+  },
+  "admin_users_models": {
+    "de": "Models",
+    "en": "Models",
+    "it": "Models",
+    "pl": "Models",
+    "ua": "\u041c\u043e\u0434\u0435\u043b\u0456",
+    "ru": "Models"
+  },
+  "admin_users_delete_confirm_single": {
+    "de": "You really want to delete",
+    "en": "You really want to delete",
+    "it": "You really want to delete",
+    "pl": "You really want to delete",
+    "ua": "\u0412\u0438 \u0434\u0456\u0439\u0441\u043d\u043e \u0445\u043e\u0447\u0435\u0442\u0435 \u0432\u0438\u0434\u0430\u043b\u0438\u0442\u0438",
+    "ru": "You really want to delete"
+  },
+  "admin_users_delete_confirm_multiple": {
+    "de": "You really want to delete selected users",
+    "en": "You really want to delete selected users",
+    "it": "You really want to delete selected users",
+    "pl": "You really want to delete selected users",
+    "ua": "\u0412\u0438 \u0434\u0456\u0439\u0441\u043d\u043e \u0445\u043e\u0447\u0435\u0442\u0435 \u0432\u0438\u0434\u0430\u043b\u0438\u0442\u0438 \u0432\u0438\u0431\u0440\u0430\u043d\u0438\u0445 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0456\u0432",
+    "ru": "You really want to delete selected users"
+  },
+  "admin_users_change_password_info": {
+    "de": "Leave this fields blank if password change not required!",
+    "en": "Leave this fields blank if password change not required!",
+    "it": "Leave this fields blank if password change not required!",
+    "pl": "Leave this fields blank if password change not required!",
+    "ua": "\u0417\u0430\u043b\u0438\u0448\u0456\u0442\u044c \u0446\u0435 \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u0438\u043c, \u044f\u043a\u0449\u043e \u043d\u0435 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u0437\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438 \u043f\u0430\u0440\u043e\u043b\u044c",
+    "ru": "Leave this fields blank if password change not required!"
+  },
+  "admin_users_profile": {
+    "de": "Profile",
+    "en": "Profile",
+    "it": "Profile",
+    "pl": "Profile",
+    "ua": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "Profile"
+  },
+  "admin_pages_title": {
+    "de": "Title",
+    "en": "Title",
+    "it": "Title",
+    "pl": "Title",
+    "ua": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a",
+    "ru": "Title"
+  },
+  "admin_pages_slug": {
+    "de": "Slug",
+    "en": "Slug",
+    "it": "Slug",
+    "pl": "Slug",
+    "ua": "\u041a\u043b\u044e\u0447",
+    "ru": "Slug"
+  },
+  "admin_pages_languages": {
+    "de": "Languages",
+    "en": "Languages",
+    "it": "Languages",
+    "pl": "Languages",
+    "ua": "\u041c\u043e\u0432\u0438",
+    "ru": "Languages"
+  },
+  "admin_pages_create_page": {
+    "de": "Create page",
+    "en": "Create page",
+    "it": "Create page",
+    "pl": "Create page",
+    "ua": "\u0421\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0443",
+    "ru": "Create page"
+  },
+  "admin_pages_edit_page": {
+    "de": "Edit page",
+    "en": "Edit page",
+    "it": "Edit page",
+    "pl": "Edit page",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0443",
+    "ru": "Edit page"
+  },
+  "admin_pages_page_title": {
+    "de": "Page title",
+    "en": "Page title",
+    "it": "Page title",
+    "pl": "Page title",
+    "ua": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0438",
+    "ru": "Page title"
+  },
+  "admin_pages_page_settings": {
+    "de": "Page settings",
+    "en": "Page settings",
+    "it": "Page settings",
+    "pl": "Page settings",
+    "ua": "\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0438",
+    "ru": "Page settings"
+  },
+  "admin_pages_page_slug": {
+    "de": "Page slug",
+    "en": "Page slug",
+    "it": "Page slug",
+    "pl": "Page slug",
+    "ua": "\u041a\u043b\u044e\u0447 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0438",
+    "ru": "Page slug"
+  },
+  "admin_pages_page_content": {
+    "de": "Page content",
+    "en": "Page content",
+    "it": "Page content",
+    "pl": "Page content",
+    "ua": "\u041a\u043e\u043d\u0442\u0435\u043d\u0442 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0438",
+    "ru": "Page content"
+  },
+  "admin_pages_meta_title": {
+    "de": "Meta title",
+    "en": "Meta title",
+    "it": "Meta title",
+    "pl": "Meta title",
+    "ua": "\u041c\u0435\u0442\u0430 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a",
+    "ru": "Meta title"
+  },
+  "admin_pages_meta_keywords": {
+    "de": "Meta keywords",
+    "en": "Meta keywords",
+    "it": "Meta keywords",
+    "pl": "Meta keywords",
+    "ua": "\u041a\u043b\u044e\u0447\u043e\u0432\u0456 \u0441\u043b\u043e\u0432\u0430",
+    "ru": "Meta keywords"
+  },
+  "admin_pages_meta_description": {
+    "de": "Meta description",
+    "en": "Meta description",
+    "it": "Meta description",
+    "pl": "Meta description",
+    "ua": "\u041c\u0435\u0442\u0430 \u043e\u043f\u0438\u0441",
+    "ru": "Meta description"
+  },
+  "admin_pages_rendering_template": {
+    "de": "Rendering template",
+    "en": "Rendering template",
+    "it": "Rendering template",
+    "pl": "Rendering template",
+    "ua": "\u0428\u0430\u0431\u043b\u043e\u043d \u0432\u0456\u0434\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f",
+    "ru": "Rendering template"
+  },
+  "admin_pages_translations": {
+    "de": "Translations",
+    "en": "Translations",
+    "it": "Translations",
+    "pl": "Translations",
+    "ua": "\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438",
+    "ru": "Translations"
+  },
+  "admin_services_slug": {
+    "de": "Slug",
+    "en": "Slug",
+    "it": "Slug",
+    "pl": "Slug",
+    "ua": "\u0406\u0434\u0435\u043d\u0442\u0438\u0444\u0456\u043a\u0430\u0442\u043e\u0440",
+    "ru": "Slug"
+  },
+  "admin_services_name": {
+    "de": "Name",
+    "en": "Name",
+    "it": "Name",
+    "pl": "Name",
+    "ua": "\u041d\u0430\u0437\u0432\u0430",
+    "ru": "Name"
+  },
+  "admin_services_add_service": {
+    "de": "Add service",
+    "en": "Add service",
+    "it": "Add service",
+    "pl": "Add service",
+    "ua": "\u0414\u043e\u0434\u0430\u0442\u0438 \u043f\u043e\u0441\u043b\u0443\u0433\u0443",
+    "ru": "Add service"
+  },
+  "admin_services_edit_service": {
+    "de": "Edit service",
+    "en": "Edit service",
+    "it": "Edit service",
+    "pl": "Edit service",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u043f\u043e\u0441\u043b\u0443\u0433\u0443",
+    "ru": "Edit service"
+  },
+  "admin_services_service_name": {
+    "de": "Service name",
+    "en": "Service name",
+    "it": "Service name",
+    "pl": "Service name",
+    "ua": "\u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
+    "ru": "Service name"
+  },
+  "admin_services_delete_confirm_single": {
+    "de": "You really want to delete",
+    "en": "You really want to delete",
+    "it": "You really want to delete",
+    "pl": "You really want to delete",
+    "ua": "\u0412\u0438 \u043d\u0430\u0441\u043f\u0440\u0430\u0432\u0434\u0456 \u0445\u043e\u0447\u0435\u0442\u0435 \u0432\u0438\u0434\u0430\u043b\u0438\u0442\u0438",
+    "ru": "You really want to delete"
+  },
+  "admin_services_delete_confirm_multiple": {
+    "de": "You really want to delete selected services",
+    "en": "You really want to delete selected services",
+    "it": "You really want to delete selected services",
+    "pl": "You really want to delete selected services",
+    "ua": "\u0412\u0438 \u043d\u0430\u0441\u043f\u0440\u0430\u0432\u0434\u0456 \u0445\u043e\u0447\u0435\u0442\u0435 \u0432\u0438\u0434\u0430\u043b\u0438\u0442\u0438 \u0432\u0438\u0431\u0440\u0430\u043d\u0456 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
+    "ru": "You really want to delete selected services"
+  },
+  "model_profile_profile_info": {
+    "de": "Profile info",
+    "en": "Profile info",
+    "it": "Profile info",
+    "pl": "Profile info",
+    "ua": "\u0406\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u043f\u0440\u043e\u0444\u0456\u043b\u044e",
+    "ru": "Profile info"
+  },
+  "model_profile_full_name": {
+    "de": "Full name",
+    "en": "Full name",
+    "it": "Full name",
+    "pl": "Full name",
+    "ua": "\u041f\u043e\u0432\u043d\u0435 \u0456\u043c'\u044f",
+    "ru": "Full name"
+  },
+  "model_profile_about": {
+    "de": "About",
+    "en": "About",
+    "it": "About",
+    "pl": "About",
+    "ua": "\u041f\u0440\u043e \u043c\u0435\u043d\u0435",
+    "ru": "About"
+  },
+  "model_profile_contact_email": {
+    "de": "Contact email",
+    "en": "Contact email",
+    "it": "Contact email",
+    "pl": "Contact email",
+    "ua": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u0438\u0439 email",
+    "ru": "Contact email"
+  },
+  "model_profile_contact_phone": {
+    "de": "Contact phone",
+    "en": "Contact phone",
+    "it": "Contact phone",
+    "pl": "Contact phone",
+    "ua": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u0438\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d",
+    "ru": "Contact phone"
+  },
+  "model_profile_model_info": {
+    "de": "Model info",
+    "en": "Model info",
+    "it": "Model info",
+    "pl": "Model info",
+    "ua": "\u041f\u0440\u043e\u0444\u0456\u043b\u044c \u043c\u043e\u0434\u0435\u043b\u0456",
+    "ru": "Model info"
+  },
+  "model_profile_nationality": {
+    "de": "Nationality",
+    "en": "Nationality",
+    "it": "Nationality",
+    "pl": "Nationality",
+    "ua": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c",
+    "ru": "Nationality"
+  },
+  "model_profile_languages": {
+    "de": "Languages",
+    "en": "Languages",
+    "it": "Languages",
+    "pl": "Languages",
+    "ua": "\u0417\u043d\u0430\u044e \u043c\u043e\u0432\u0438",
+    "ru": "Languages"
+  },
+  "model_profile_haircolor": {
+    "de": "Haircolor",
+    "en": "Haircolor",
+    "it": "Haircolor",
+    "pl": "Haircolor",
+    "ua": "\u041a\u043e\u043b\u0456\u0440 \u0432\u043e\u043b\u043e\u0441\u0441\u044f",
+    "ru": "Haircolor"
+  },
+  "model_profile_age": {
+    "de": "Age",
+    "en": "Age",
+    "it": "Age",
+    "pl": "Age",
+    "ua": "\u0412\u0456\u043a",
+    "ru": "Age"
+  },
+  "model_profile_weight": {
+    "de": "Weight",
+    "en": "Weight",
+    "it": "Weight",
+    "pl": "Weight",
+    "ua": "\u0412\u0430\u0433\u0430",
+    "ru": "Weight"
+  },
+  "model_profile_height": {
+    "de": "Height",
+    "en": "Height",
+    "it": "Height",
+    "pl": "Height",
+    "ua": "\u0420\u0456\u0441\u0442",
+    "ru": "Height"
+  },
+  "model_profile_breast": {
+    "de": "Breast",
+    "en": "Breast",
+    "it": "Breast",
+    "pl": "Breast",
+    "ua": "\u0420\u043e\u0437\u043c\u0456\u0440 \u0433\u0440\u0443\u0434\u0435\u0439",
+    "ru": "Breast"
+  },
+  "model_profile_smoke": {
+    "de": "Smoke",
+    "en": "Smoke",
+    "it": "Smoke",
+    "pl": "Smoke",
+    "ua": "\u041a\u0443\u0440\u044e",
+    "ru": "Smoke"
+  },
+  "model_profile_drink": {
+    "de": "Drink",
+    "en": "Drink",
+    "it": "Drink",
+    "pl": "Drink",
+    "ua": "\u041f'\u044e",
+    "ru": "Drink"
+  },
+  "model_profile_intimicy": {
+    "de": "Intimicy",
+    "en": "Intimicy",
+    "it": "Intimicy",
+    "pl": "Intimicy",
+    "ua": "\u0406\u043d\u0442\u0438\u043c\u043d\u0430 \u0437\u043e\u043d\u0430",
+    "ru": "Intimicy"
+  },
+  "model_profile_my_services": {
+    "de": "My services",
+    "en": "My services",
+    "it": "My services",
+    "pl": "My services",
+    "ua": "\u041c\u043e\u0457 \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
+    "ru": "My services"
+  },
+  "model_profile_select_services": {
+    "de": "Select services",
+    "en": "Select services",
+    "it": "Select services",
+    "pl": "Select services",
+    "ua": "\u0412\u0438\u0431\u0435\u0440\u0456\u0442\u044c \u043f\u043e\u0441\u043b\u0443\u0433\u0438",
+    "ru": "Select services"
+  },
+  "model_profile_my_schedule": {
+    "de": "My schedule",
+    "en": "My schedule",
+    "it": "My schedule",
+    "pl": "My schedule",
+    "ua": "\u041c\u0456\u0439 \u0440\u043e\u0437\u043a\u043b\u0430\u0434",
+    "ru": "My schedule"
+  },
+  "model_profile_dates_range": {
+    "de": "Dates range",
+    "en": "Dates range",
+    "it": "Dates range",
+    "pl": "Dates range",
+    "ua": "\u0414\u0456\u0430\u043f\u0430\u0437\u043e\u043d \u0434\u0430\u0442",
+    "ru": "Dates range"
+  },
+  "model_profile_working_days": {
+    "de": "Working days",
+    "en": "Working days",
+    "it": "Working days",
+    "pl": "Working days",
+    "ua": "\u0420\u043e\u0431\u043e\u0447\u0456 \u0434\u043d\u0456",
+    "ru": "Working days"
+  },
+  "model_profile_add_dates_range": {
+    "de": "Add dates rangs",
+    "en": "Add dates rangs",
+    "it": "Add dates rangs",
+    "pl": "Add dates rangs",
+    "ua": "\u0414\u043e\u0434\u0430\u0442\u0438 \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d \u0434\u0430\u0442",
+    "ru": "Add dates rangs"
+  },
+  "model_profile_edit_dates_range": {
+    "de": "Edit dates range",
+    "en": "Edit dates range",
+    "it": "Edit dates range",
+    "pl": "Edit dates range",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d \u0434\u0430\u0442",
+    "ru": "Edit dates range"
+  },
+  "model_profile_date_from": {
+    "de": "Date from",
+    "en": "Date from",
+    "it": "Date from",
+    "pl": "Date from",
+    "ua": "\u0414\u0430\u0442\u0430 \u0437",
+    "ru": "Date from"
+  },
+  "model_profile_date_to": {
+    "de": "Date to",
+    "en": "Date to",
+    "it": "Date to",
+    "pl": "Date to",
+    "ua": "\u0414\u0430\u0442\u0430 \u0434\u043e",
+    "ru": "Date to"
+  },
+  "model_profile_select_days": {
+    "de": "Select days and hours when you will be available in this dates range",
+    "en": "Select days and hours when you will be available in this dates range",
+    "it": "Select days and hours when you will be available in this dates range",
+    "pl": "Select days and hours when you will be available in this dates range",
+    "ua": "\u0412\u0438\u0431\u0435\u0440\u0456\u0442\u044c \u0434\u043d\u0456 \u0442\u0430 \u0433\u043e\u0434\u0438\u043d\u0438, \u043a\u043e\u043b\u0438 \u0432\u0438 \u0431\u0443\u0434\u0435\u0442\u0430 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430 \u0432 \u0446\u044c\u043e\u043c\u0443 \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d \u0434\u0430\u0442",
+    "ru": "Select days and hours when you will be available in this dates range"
+  },
+  "model_profile_view_profile": {
+    "de": "View profile",
+    "en": "View profile",
+    "it": "View profile",
+    "pl": "View profile",
+    "ua": "\u041f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u043f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "View profile"
+  },
+  "model_profile_edit_profile": {
+    "de": "Edit profile",
+    "en": "Edit profile",
+    "it": "Edit profile",
+    "pl": "Edit profile",
+    "ua": "\u0420\u0435\u0434\u0430\u0433\u0443\u0432\u0430\u0442\u0438 \u043f\u0440\u043e\u0444\u0456\u043b\u044c",
+    "ru": "Edit profile"
+  },
+  "model_profile_edit_services": {
+    "de": "Edit services",
+    "en": "Edit services",
+    "it": "Edit services",
+    "pl": "Edit services"
+  },
+  "owner_profile_lovehouse_name": {
+    "de": "Lovehouse name",
+    "en": "Lovehouse name",
+    "it": "Lovehouse name",
+    "pl": "Lovehouse name"
+  },
+
+  "owner_profile_description":{
+    "de": "Lovehouse Description",
+    "en": "Lovehouse Description",
+    "it": "Lovehouse Description",
+    "pl": "Lovehouse Description"
+},
+
+
+  "owner_profile_location":{
+    "de": "Lovehouse Location",
+    "en": "Lovehouse Location",
+    "it": "Lovehouse Location",
+    "pl": "Lovehouse Location"
+  }
+
+}

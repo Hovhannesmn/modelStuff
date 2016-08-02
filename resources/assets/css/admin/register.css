@@ -1,0 +1,6 @@
+header.page .navbar .flag {
+  width: 15px !important;
+  height: auto !important;
+  margin-top: -3px !important;
+  margin-right: 5px !important;
+}
